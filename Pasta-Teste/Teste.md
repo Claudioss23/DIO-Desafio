@@ -1,4 +1,5 @@
 # Teste :computer:
 
-Isso é um _teste_ para a **DIO**. :wave:
+Isso é um teste para a **DIO**. :wave:
 
+_PS: Feito com o GIT Bash._
