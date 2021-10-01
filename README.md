@@ -1,2 +1,2 @@
-# DIO-Desafio
-Primeiro Repositório para a DIO
+# DIO - Desafio
+Primeiro Repositório para a DIO.
